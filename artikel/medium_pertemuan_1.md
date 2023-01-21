@@ -19,3 +19,5 @@
 [Althaff](https://medium.com/@budimanaltaf687/pengenalan-oop-object-oriented-programming-a3b76503fa7a)
 
 [Zaidan](https://medium.com/@firrizq/pengenalan-oop-2510989728ec)
+
+[Rakha](https://medium.com/@rakhasaptafabian/what-in-the-world-is-oop-7aa413bb1fe)
